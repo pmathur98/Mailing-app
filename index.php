@@ -56,12 +56,14 @@
 	<title>Mail it</title>
 	<link rel="shortcut icon" href="img/143382.png" type="image/png">
 	<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<nav class="navbar navbar-default">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="index.php">Mail it</a>
+				<a class="navbar-brand-inline" href="index.php"><img src="img/143382.png" class="img-inline img-responsive-inline"></a>
+				<a class="navbar-brand" > Mail it</a>
 			</div>
 		</div>	
 	</nav>
